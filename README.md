@@ -1,4 +1,4 @@
 MobileList
 ==========
 
-Just list for all the mobiles. 
+Just a list for all the mobiles. 
